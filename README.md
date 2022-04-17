@@ -2,4 +2,5 @@
 configuracion de .vim y .vimrc
 
 
--En unos dias arreglo el README , SI TE GUSTA la config dale una estrella-
+-Descargar y dejar las carpetas en la raiz 
+- Abrir vim , esc + :PlugInstall , esto para que se instalen los complementos de Coc
